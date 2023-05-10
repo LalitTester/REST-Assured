@@ -1,0 +1,23 @@
+https://reqres.in/
+https://reqres.in/api/users?page=2
+https://httpbin.org/status/{200}
+
+
+
+Vhttps://learning.postman.com/docs/getting-started/syncing/
+
+
+https://learning.postman.com/docs/getting-started/syncing/     IMPORTANT LINK FOR POSTMAN
+
+
+https://awesomeqa.com/ui/index.php?route=account/register    ---------important for postman =pramode
+
+
+
+https://docs.google.com/document/d/12e2SYmqKnDn2lxJ4ZzMN_ID9Idkeb2Y11PZ2PdVNXBU/edit?usp=sharing   ----All documents related to postman API
+
+
+https://docs.google.com/document/d/12e2SYmqKnDn2lxJ4ZzMN_ID9Idkeb2Y11PZ2PdVNXBU/edit?usp=sharing       ------------Same as above
+
+   
+   

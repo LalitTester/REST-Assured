@@ -1,0 +1,6 @@
+1. Palindrom
+2. reverse a string
+remove duplicate
+remove duplicate and print uni
+count the vowels
+sort an array in asending order
